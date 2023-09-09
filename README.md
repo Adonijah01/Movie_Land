@@ -13,10 +13,9 @@ Installation
 To run this Movie App locally, follow these steps:
 
 Clone the repository to your local machine:
-
+https://github.com/Adonijah01/Movie_Land.git
 bash
 Copy code
-git clone https://github.com/adrianhajdin/movie-app.git
 Navigate to the project directory:
 
 bash
